@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="171" height="20" role="img" aria-label="Licensing: Check out here">
+  <title>Licensing: Check out here</title>
+  <g shape-rendering="crispEdges">
+    <rect width="78" height="20" fill="#555" />
+    <rect x="78" width="93" height="20" fill="#dfb317" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNDM5OENDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U1BEWDwvdGl0bGU+PHBhdGggZD0iTTAgMHYyNEg4LjIyMmwyLjA4OS0yLjM3MyAyLjA5LTIuMzc0VjEzLjJIMTguOTc4bDIuNTEtMi40ODhMMjQgOC4yMjNWMEgxMnptNS4yIDUuMmgxMy43OTFMMTIuMiAxMmMtMy43MzUgMy43NC02LjgzOCA2LjgtNi44OTYgNi44LS4wNTcgMC0uMTA0LTMuMDYtLjEwNC02Ljh6bTguNCA4Ljh2MTBIMjRWMTRoLTUuMnoiLz48L3N2Zz4=" />
+    <text x="485" y="140" transform="scale(.1)" fill="#fff" textLength="510">Licensing</text>
+    <text x="1235" y="140" transform="scale(.1)" fill="#fff" textLength="830">Check out here</text>
+  </g>
+</svg>
